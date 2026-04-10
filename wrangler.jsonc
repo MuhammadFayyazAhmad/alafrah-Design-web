@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "alafrahdesign1",
+  "compatibility_date": "2026-04-10",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "stitch_alafrah_design"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
